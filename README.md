@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DX and Infrastructure at Remo.co
+- 🔭 I’m currently interested in frontend DX and Infrastructure work
 - 🌱 I’m currently learning CI/CI with GitHub Actions
 - 👯 I’m looking to collaborate on development of SPA or modern tools for frontend apps
 - 🤔 I’m looking for help with relocating to Europe (Estonia, Portugal)
